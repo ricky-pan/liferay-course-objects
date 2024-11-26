@@ -1,0 +1,307 @@
+{
+	"configuration": {
+		"className": "com.liferay.headless.admin.list.type.dto.v1_0.ListTypeDefinition",
+		"parameters": {
+			"containsHeaders": "true",
+			"createStrategy": "UPSERT",
+			"onErrorFail": "false",
+			"updateStrategy": "UPDATE"
+		},
+		"taskItemDelegateName": "DEFAULT"
+	},
+	"items": [
+		{
+			"externalReferenceCode": "ANNUAL_PURCHASE_VOLUMES",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "FIRST_TIER",
+					"key": "firstTier",
+					"name": "$50,000 - $100,000 USD",
+					"name_i18n": {
+						"en-US": "$50,000 - $100,000 USD"
+					}
+				},
+				{
+					"externalReferenceCode": "FOURTH_TIER",
+					"key": "fourthTier",
+					"name": "$1M+ USD",
+					"name_i18n": {
+						"en-US": "$1M+ USD"
+					}
+				},
+				{
+					"externalReferenceCode": "SECOND_TIER",
+					"key": "secondTier",
+					"name": "$200,000 - $500,000 USD",
+					"name_i18n": {
+						"en-US": "$200,000 - $500,000 USD"
+					}
+				},
+				{
+					"externalReferenceCode": "THIRD_TIER",
+					"key": "thirdTier",
+					"name": "$500,000 - $1M USD",
+					"name_i18n": {
+						"en-US": "$500,000 - $1M USD"
+					}
+				}
+			],
+			"name": "Annual Purchase Volumes",
+			"name_i18n": {
+				"en-US": "Annual Purchase Volumes"
+			}
+		},
+		{
+			"externalReferenceCode": "APPLICATION_STATES",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "APPROVED",
+					"key": "approved",
+					"name": "Approved",
+					"name_i18n": {
+						"en-US": "Approved"
+					}
+				},
+				{
+					"externalReferenceCode": "DENIED",
+					"key": "denied",
+					"name": "Denied",
+					"name_i18n": {
+						"en-US": "Denied"
+					}
+				},
+				{
+					"externalReferenceCode": "ON_HOLD",
+					"key": "onHold",
+					"name": "On Hold",
+					"name_i18n": {
+						"en-US": "On Hold"
+					}
+				},
+				{
+					"externalReferenceCode": "OPEN",
+					"key": "open",
+					"name": "Open",
+					"name_i18n": {
+						"en-US": "Open"
+					}
+				},
+				{
+					"externalReferenceCode": "UNDER_REVIEW",
+					"key": "underReview",
+					"name": "Under Review",
+					"name_i18n": {
+						"en-US": "Under Review"
+					}
+				},
+				{
+					"externalReferenceCode": "WITHDRAWN",
+					"key": "withdrawn",
+					"name": "Withdrawn",
+					"name_i18n": {
+						"en-US": "Withdrawn"
+					}
+				}
+			],
+			"name": "Application States",
+			"name_i18n": {
+				"en-US": "Application States"
+			}
+		},
+		{
+			"externalReferenceCode": "DISTRIBUTION_CHANNELS",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "E_COMMERCE",
+					"key": "eCommerce",
+					"name": "E-Commerce",
+					"name_i18n": {
+						"en-US": "E-Commerce"
+					}
+				},
+				{
+					"externalReferenceCode": "OTHER_RETAILERS",
+					"key": "otherRetailers",
+					"name": "Distribute to Other Retailers",
+					"name_i18n": {
+						"en-US": "Distribute to Other Retailers"
+					}
+				},
+				{
+					"externalReferenceCode": "OWN_RETAIL",
+					"key": "ownRetail",
+					"name": "Sell Through Own Retail",
+					"name_i18n": {
+						"en-US": "Sell Through Own Retail"
+					}
+				}
+			],
+			"name": "Distribution Channels",
+			"name_i18n": {
+				"en-US": "Distribution Channels"
+			}
+		},
+		{
+			"externalReferenceCode": "DISTRIBUTION_REGIONS",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "AFRICA",
+					"key": "africa",
+					"name": "Africa",
+					"name_i18n": {
+						"en-US": "Africa"
+					}
+				},
+				{
+					"externalReferenceCode": "ASIA_PACIFIC_RIM",
+					"key": "asiaPacificRim",
+					"name": "Asia & Pacific Rim",
+					"name_i18n": {
+						"en-US": "Asia & Pacific Rim"
+					}
+				},
+				{
+					"externalReferenceCode": "CARIBBEAN",
+					"key": "caribbean",
+					"name": "Caribbean",
+					"name_i18n": {
+						"en-US": "Caribbean"
+					}
+				},
+				{
+					"externalReferenceCode": "CENTRAL_ASIA",
+					"key": "centralAsia",
+					"name": "Central Asia",
+					"name_i18n": {
+						"en-US": "Central Asia"
+					}
+				},
+				{
+					"externalReferenceCode": "EASTERN_EUROPE",
+					"key": "easternEurope",
+					"name": "Eastern Europe",
+					"name_i18n": {
+						"en-US": "Eastern Europe"
+					}
+				},
+				{
+					"externalReferenceCode": "INDIA",
+					"key": "india",
+					"name": "India",
+					"name_i18n": {
+						"en-US": "India"
+					}
+				},
+				{
+					"externalReferenceCode": "LATIN_AMERICA",
+					"key": "latinAmerica",
+					"name": "Latin America",
+					"name_i18n": {
+						"en-US": "Latin America"
+					}
+				},
+				{
+					"externalReferenceCode": "MIDDLE_EAST",
+					"key": "middleEast",
+					"name": "Middle East",
+					"name_i18n": {
+						"en-US": "Middle East"
+					}
+				},
+				{
+					"externalReferenceCode": "NORTH_AMERICA",
+					"key": "northAmerica",
+					"name": "North America",
+					"name_i18n": {
+						"en-US": "North America"
+					}
+				},
+				{
+					"externalReferenceCode": "WESTERN_EUROPE",
+					"key": "westernEurope",
+					"name": "Western Europe",
+					"name_i18n": {
+						"en-US": "Western Europe"
+					}
+				}
+			],
+			"name": "Distribution Regions",
+			"name_i18n": {
+				"en-US": "Distribution Regions"
+			}
+		},
+		{
+			"externalReferenceCode": "ORDER_TYPES",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "BULK_FORMATS",
+					"key": "bulkFormats",
+					"name": "Bulk Formats",
+					"name_i18n": {
+						"en-US": "Bulk Formats"
+					}
+				},
+				{
+					"externalReferenceCode": "NOT_SURE",
+					"key": "notSure",
+					"name": "Not Sure",
+					"name_i18n": {
+						"en-US": "Not Sure"
+					}
+				},
+				{
+					"externalReferenceCode": "PRIVATE_LABELING",
+					"key": "privateLabeling",
+					"name": "Private Labeling",
+					"name_i18n": {
+						"en-US": "Private Labeling"
+					}
+				},
+				{
+					"externalReferenceCode": "WHOLESALE",
+					"key": "wholesale",
+					"name": "Wholesale",
+					"name_i18n": {
+						"en-US": "Wholesale"
+					}
+				}
+			],
+			"name": "Order Types",
+			"name_i18n": {
+				"en-US": "Order Types"
+			}
+		},
+		{
+			"externalReferenceCode": "PRODUCT_LABELS",
+			"listTypeEntries": [
+				{
+					"externalReferenceCode": "LOCALIZED",
+					"key": "localized",
+					"name": "Localized",
+					"name_i18n": {
+						"en-US": "Localized"
+					}
+				},
+				{
+					"externalReferenceCode": "STANDARD_US",
+					"key": "standardUS",
+					"name": "Standard US",
+					"name_i18n": {
+						"en-US": "Standard US"
+					}
+				}
+			],
+			"name": "Product Labels",
+			"name_i18n": {
+				"en-US": "Product Labels"
+			}
+		},
+		{
+			"externalReferenceCode": "PRODUCT_TYPES",
+			"name": "Product Types",
+			"name_i18n": {
+				"en-US": "Product Types"
+			}
+		}
+	]
+}
