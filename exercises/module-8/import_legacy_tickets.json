@@ -1,7 +1,6 @@
 [
 	{
- 		"externalReferenceCode": "a4eeacd8-6346-240d-e681-655f48c121f9",
- 		"keywords": [],
+  		"keywords": [],
   		"taxonomyCategoryIds": [],
   		"description": "What is the process for submitting a warranty claim for defective frames?",
   		"priority": {
@@ -17,12 +16,12 @@
    			"name": "Fixed"
   		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
+    		"r_accountToTickets_accountEntryERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
 		"accountToTicketsERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54639,
-    	"r_userToTicket_userId": 32235,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54639,
+    		"r_userToTicket_userId": 32235,
+    		"ticketToTicketsERC": "",
   		"subject": "Information on Warranty and Repair Services",
   		"suggestions": "",
   		"ticketStatus": {
@@ -35,7 +34,6 @@
   		}
 	},
 	{
- 		"externalReferenceCode": "a5eeacd8-6346-240d-e681-655f48c121f9",
  		"keywords": [],
   		"taxonomyCategoryIds": [],
   		"description": "I was attempting to checkout but I received an error message related to account setup",
@@ -52,12 +50,12 @@
    			"name": "Fixed"
   		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
+    		"r_accountToTickets_accountEntryERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
 		"accountToTicketsERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54645,
-    	"r_userToTicket_userId": 32252,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54645,
+    		"r_userToTicket_userId": 32252,
+    		"ticketToTicketsERC": "",
   		"subject": "Issue with Online Order Checkout",
   		"suggestions": "",
   		"ticketStatus": {
@@ -70,7 +68,6 @@
   		}
 	},
 	{
-		"externalReferenceCode": "a6eeacd8-6346-240d-e681-655f48c121f9",
 		"keywords": [],
 		"taxonomyCategoryIds": [],
 		"description": "There is no sizing guide available in the online store",
@@ -87,12 +84,12 @@
 			  "name": "Fixed"
 		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
+    		"r_accountToTickets_accountEntryERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
 		"accountToTicketsERC": "2555f503-73a3-9a64-894a-8fd0f69812b3",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54645,
-    	"r_userToTicket_userId": 32252,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54645,
+    		"r_userToTicket_userId": 32252,
+    		"ticketToTicketsERC": "",
 		"subject": "Request for Size Guide or Measurements",
 		"suggestions": "",
 		"ticketStatus": {
@@ -105,7 +102,6 @@
 		}
    },
    {
-		"externalReferenceCode": "a7eeacd8-6346-240d-e681-655f48c121f9",
 		"keywords": [],
 		"taxonomyCategoryIds": [],
 		"description": "What is the difference between standard and expedited shipping?",
@@ -122,12 +118,12 @@
 		  "name": "Fixed"
 		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
+    		"r_accountToTickets_accountEntryERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
 		"accountToTicketsERC": "22efefb0-96f4-1a7d-0bb9-ef603f1d93a5",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54639,
-    	"r_userToTicket_userId": 32235,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54639,
+    		"r_userToTicket_userId": 32235,
+    		"ticketToTicketsERC": "",
 		"subject": "Shipping and Delivery Time Estimates",
 		"suggestions": "",
 		"ticketStatus": {
@@ -140,7 +136,6 @@
 		}
 	},
 	{
-		"externalReferenceCode": "a8eeacd8-6346-240d-e681-655f48c121f9",
 		"keywords": [],
 		"taxonomyCategoryIds": [],
 		"description": "Received the incorrect prescription lenses in my last order",
@@ -157,12 +152,12 @@
 		  "name": "Fixed"
 		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
+    		"r_accountToTickets_accountEntryERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
 		"accountToTicketsERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54651,
-    	"r_userToTicket_userId": 32235,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54651,
+    		"r_userToTicket_userId": 32235,
+    		"ticketToTicketsERC": "",
 		"subject": "Incorrect Prescription Lenses in Order",
 		"suggestions": "",
 		"ticketStatus": {
@@ -175,7 +170,6 @@
 		}
 	},
 	{
-		"externalReferenceCode": "a9eeacd8-6346-240d-e681-655f48c121f9",
 		"keywords": [],
 		"taxonomyCategoryIds": [],
 		"description": "Unexpected delay in delivery of shipment",
@@ -192,12 +186,12 @@
 		  "name": "Fixed"
 		},
 		"r_ticketToTickets_c_ticketId": 0,
-    	"r_accountToTickets_accountEntryERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
+    		"r_accountToTickets_accountEntryERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
 		"accountToTicketsERC": "76e970b0-3447-7cdb-206e-ecefa919c9ce",
 		"r_ticketToTickets_c_ticketERC": "",
-    	"r_accountToTickets_accountEntryId": 54651,
-    	"r_userToTicket_userId": 32252,
-    	"ticketToTicketsERC": "",
+    		"r_accountToTickets_accountEntryId": 54651,
+    		"r_userToTicket_userId": 32252,
+    		"ticketToTicketsERC": "",
 		"subject": "Delay in Delivery – Need Update",
 		"suggestions": "",
 		"ticketStatus": {
