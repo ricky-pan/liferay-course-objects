@@ -3,9 +3,9 @@ assemble:
       into: batch
 liferay-clarity-batch-create-distributor-object-picklist-fields:
     name: Liferay Clarity Batch Create Distributor Object Picklist Fields
-    oAuthApplicationHeadlessServer: liferay-clarity-batch-create-distributor-object-picklist-fields-oauth-application-headless-server
+    oAuthApplicationHeadlessServer: create-distributor-object-picklist-fields-oauth-application-headless-server
     type: batch
-liferay-clarity-batch-create-distributor-object-picklist-fields-oauth-application-headless-server:
+create-distributor-object-picklist-fields-oauth-application-headless-server:
     .serviceAddress: localhost:8080
     .serviceScheme: http
     name: Liferay Clarity Batch Create Distributor Object Picklist Fields OAuth Application Headless Server
