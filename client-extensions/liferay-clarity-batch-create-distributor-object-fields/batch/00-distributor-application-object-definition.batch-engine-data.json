@@ -258,17 +258,10 @@
 				"en_US": "Business License Number"
 			},
 			"name": "businessLicenseNumber",
-			"objectFieldSettings": [
-				{
-					"name": "uniqueValues",
-					"value": true
-				}
-			],
 			"readOnly": "false",
 			"required": true,
 			"state": false,
-			"type": "String",
-			"unique": true
+			"type": "String"
 		},
 		{
 			"DBType": "String",
@@ -332,17 +325,10 @@
 				"en_US": "Business Resale Number"
 			},
 			"name": "businessResaleNumber",
-			"objectFieldSettings": [
-				{
-					"name": "uniqueValues",
-					"value": true
-				}
-			],
 			"readOnly": "false",
 			"required": true,
 			"state": false,
-			"type": "String",
-			"unique": true
+			"type": "String"
 		},
 		{
 			"DBType": "String",
@@ -369,17 +355,10 @@
 				"en_US": "Business Tax ID Number"
 			},
 			"name": "businessTaxIDNumber",
-			"objectFieldSettings": [
-				{
-					"name": "uniqueValues",
-					"value": true
-				}
-			],
 			"readOnly": "false",
 			"required": true,
 			"state": false,
-			"type": "String",
-			"unique": true
+			"type": "String"
 		},
 		{
 			"DBType": "String",
