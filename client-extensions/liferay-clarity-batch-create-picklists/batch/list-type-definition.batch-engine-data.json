@@ -256,14 +256,6 @@
 					"name": "Contacts",
 					"key": "contacts",
 					"externalReferenceCode": "PRODUCT_TYPE_CONTACTS"
-				},
-				{
-					"name_i18n": {
-						"en-US": "Other"
-					},
-					"name": "Other",
-					"key": "other",
-					"externalReferenceCode": "PRODUCT_TYPE_OTHER"
 				}
 			],
 			"name": "Product Types",
@@ -318,39 +310,6 @@
 			"name": "Assessment Scores",
 			"name_i18n": {
 				"en-US": "Assessment Scores"
-			}
-		},
-		{
-			"externalReferenceCode": "BUSINESS_TYPES",
-			"listTypeEntries": [
-				{
-					"externalReferenceCode": "FRANCHISE",
-					"key": "franchise",
-					"name": "Franchise",
-					"name_i18n": {
-						"en-US": "Franchise"
-					}
-				},
-				{
-					"externalReferenceCode": "INDEPENDENT",
-					"key": "independent",
-					"name": "Independent",
-					"name_i18n": {
-						"en-US": "Independent"
-					}
-				},
-				{
-					"externalReferenceCode": "OTHER",
-					"key": "other",
-					"name": "Other",
-					"name_i18n": {
-						"en-US": "Other"
-					}
-				}
-			],
-			"name": "Business Types",
-			"name_i18n": {
-				"en-US": "Business Types"
 			}
 		},
 		{
