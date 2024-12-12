@@ -58,38 +58,6 @@
 			"required": "false",
 			"state": false,
 			"type": "String"
-		},
-		{
-			"DBType": "String",
-			"businessType": "MultiselectPicklist",
-			"externalReferenceCode": "ORDER_TYPES",
-			"indexed": true,
-			"indexedLanguageId": "en_US",
-			"label": {
-				"en_US": "Order Types of Interest"
-			},
-			"listTypeDefinitionExternalReferenceCode": "ORDER_TYPES",
-			"name": "orderTypesOfInterest",
-			"readOnly": "false",
-			"required": "false",
-			"state": false,
-			"type": "String"
-		},
-		{
-			"DBType": "String",
-			"businessType": "Picklist",
-			"externalReferenceCode": "PRODUCT_LABELS",
-			"indexed": true,
-			"indexedLanguageId": "en_US",
-			"label": {
-				"en_US": "Product Label"
-			},
-			"listTypeDefinitionExternalReferenceCode": "PRODUCT_LABELS",
-			"name": "productLabel",
-			"readOnly": "false",
-			"required": "false",
-			"state": false,
-			"type": "String"
 		}
 	]
 }
