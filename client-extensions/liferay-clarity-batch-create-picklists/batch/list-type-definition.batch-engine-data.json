@@ -223,47 +223,6 @@
 			}
 		},
 		{
-			"externalReferenceCode": "PRODUCT_TYPES",
-			"listTypeEntries": [
-				{
-					"name_i18n": {
-						"en-US": "Eyeglasses"
-					},
-					"name": "Eyeglasses",
-					"key": "eyeglasses",
-					"externalReferenceCode": "PRODUCT_TYPE_EYEGLASSES"
-				},
-				{
-					"name_i18n": {
-						"en-US": "Sunglasses"
-					},
-					"name": "Sunglasses",
-					"key": "sunglasses",
-					"externalReferenceCode": "PRODUCT_TYPE_SUNGLASSES"
-				},
-				{
-					"name_i18n": {
-						"en-US": "Lenses"
-					},
-					"name": "Lenses",
-					"key": "lenses",
-					"externalReferenceCode": "PRODUCT_TYPE_LENSES"
-				},
-				{
-					"name_i18n": {
-						"en-US": "Contacts"
-					},
-					"name": "Contacts",
-					"key": "contacts",
-					"externalReferenceCode": "PRODUCT_TYPE_CONTACTS"
-				}
-			],
-			"name": "Product Types",
-			"name_i18n": {
-				"en-US": "Product Types"
-			}
-		},
-		{
 			"externalReferenceCode": "ASSESSMENT_SCORES",
 			"listTypeEntries": [
 				{
